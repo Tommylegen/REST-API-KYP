@@ -1,0 +1,11 @@
+{
+  "name": "api-free",
+  "version": "1.1.0",
+  "description": "Rest Api",
+  "author": "Yuri-Neko"
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    }
+  ]
+}
